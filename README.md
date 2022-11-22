@@ -7,7 +7,8 @@
 ## Made With
 
 - Ruby on Rails
-- 
+- Postgresql
+  
 ## Link to React App
 [link]()
 
