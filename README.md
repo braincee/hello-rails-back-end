@@ -1,24 +1,61 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails Back End
 
-Things you may want to cover:
+> Create a React front-end with a Rails back-end and connect them to display a random greeting message.
 
-* Ruby version
+## Made With
 
-* System dependencies
+- Ruby on Rails
+- Postgresql
+  
+## Link to React App
+[link](https://github.com/braincee/hello-react-front-end/tree/development)
 
-* Configuration
+## Getting Started
 
-* Database creation
+### Setup
 
-* Database initialization
+To setup the project locally: clone the repository using:
 
-* How to run the test suite
+```
+git clone https://github.com/braincee/hello-rails-back-end.git
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+### Install dependencies
+run:
+```
+bundle install
+```
 
-* Deployment instructions
+### Setup database
+run:
+```
+rails db:create
+rails db:migrate
+rails db:seed
+```
 
-* ...
+### Run the app
+run:
+```
+rails s
+```
+
+## Authors
+
+👤 **Stephen Annor**
+
+- GitHub: [@braincee](https://github.com/braincee)
+- Twitter: [@hamanel](https://twitter.com/annor0543)
+- LinkedIn: [Manel Hammouche](https://www.linkedin.com/in/stephen-annor/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/braincee/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
