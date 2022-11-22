@@ -7,9 +7,9 @@
 ## Made With
 
 - Ruby on Rails
-
+- 
 ## Link to React App
-[link](https://github.com/ha-manel/hello-react-front-end/tree/dev)
+[link]()
 
 ## Getting Started
 
